@@ -1,4 +1,5 @@
-[![Logo(logo.jpg)](ttps://github.com/deryluserbotofficial/userbot)
+[![Logo](logo.jpg)](ttps://github.com/deryluserbotofficial/userbot)
+
 [![Issues](https://img.shields.io/github/issues/deryluserbotofficial/userbot?style=for-the-badge&color=green)](https://github.com/deryluserbotofficial/userbot/issues)
 [![Forks](https://img.shields.io/github/forks/deryluserbotofficial/userbot?style=for-the-badge&color=green)](https://github.com/deryluserbotofficial/userbot/fork)
 [![Stars](https://img.shields.io/github/stars/deryluserbotofficial/userbot?style=for-the-badge&color=green)](https://github.com/deryluserbotofficial/userbot/)
