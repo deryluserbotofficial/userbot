@@ -1,8 +1,8 @@
-[![Issues](https://img.shields.io/github/issues/ggratisan/telegramorg?style=for-the-badge&color=green)](https://github.com/ggratisan/telegramorg/issues)
-[![Forks](https://img.shields.io/github/forks/ggratisan/telegramorg?style=for-the-badge&color=green)](https://github.com/ggratisan/telegramorg/fork)
-[![Stars](https://img.shields.io/github/stars/ggratisan/telegramorg?style=for-the-badge&color=green)](https://github.com/ggratisan/telegramorg)
-[![Size](https://img.shields.io/github/repo-size/ggratisan/telegramorg?style=for-the-badge&color=green)](https://github.com/ggratisan/telegramorg)
-[![Contributors](https://img.shields.io/github/contributors/ggratisan/telegramorg?style=for-the-badge&color=green)](https://github.com/ggratisan/telegramorg)
+[![Issues](https://img.shields.io/github/issues/deryluserbotofficial/userbot?style=for-the-badge&color=green)](https://github.com/deryluserbotofficial/userbot/issues)
+[![Forks](https://img.shields.io/github/forks/deryluserbotofficial/userbot?style=for-the-badge&color=green)](https://github.com/deryluserbotofficial/userbot/fork)
+[![Stars](https://img.shields.io/github/stars/deryluserbotofficial/userbot?style=for-the-badge&color=green)](https://github.com/deryluserbotofficial/userbot/)
+[![Size](https://img.shields.io/github/repo-size/deryluserbotofficial/userbot?style=for-the-badge&color=green)](https://github.com/deryluserbotofficial/userbot/)
+[![Contributors](https://img.shields.io/github/contributors/deryluserbotofficial/userbot?style=for-the-badge&color=green)](https://github.com/deryluserbotofficial/userbot)
 
 
 # UPLOAD
