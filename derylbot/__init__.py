@@ -23,7 +23,7 @@ if Config.STRING_SESSION:
         )
     else:
         bot = TelegramClient(
-            "TG_BOT_TOKEN", api_id=Config.APP_ID, api_hash=Config.API_HASH
+            "BOT_TOKEN", api_id=Config.APP_ID, api_hash=Config.API_HASH
         ).start(bot_token=Config.STRING_SESSION)
 else:
     session_name = "startup"
@@ -46,9 +46,9 @@ else:
 LOGS = getLogger(__name__)
 
 try:
-    if Config.API_KEY is not None or Config.HEROKU_APP_NAME is not None:
-        NAMA_APP = heroku3.from_key(Config.HEROKU_API_KEY).apps()[
-            Config.HEROKU_APP_NAME
+    if Config.API_KEY is not None or Config.NAMA_APP is not None:
+        NAMA_APP = heroku3.from_key(Config.API_KEY).apps()[
+            Config.NAMA_APP
         ]
     else:
         NAMA_APP = None
